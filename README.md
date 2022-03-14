@@ -1,2 +1,2 @@
-# DataStructure-CPP
+# DataStructure
 Data structure program collections 
